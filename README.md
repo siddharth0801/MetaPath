@@ -3,10 +3,10 @@
 
 # Where MetaPath
 - Tourist Places like museums, monuments, etc.
-- College campus
+- College campuses
 - Shopping Malls 
 
 # TechStack Used
 - Kotlin
-- Google ml kit
+- Google ML kit
 - SceneView
