@@ -7,6 +7,6 @@
 - Shopping Malls 
 
 # TechStack Used
->-Kotlin
->-Google ml kit
->-SceneView
+- Kotlin
+- Google ml kit
+- SceneView
